@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vlsiuser
+HostName                       vlsivm.egr.duke.edu
+ProcessIdentifier              41751
+ProcessCreationTime_UTC        1729959861
+ProcessCreationTime_Readable   Sat Oct 26 12:24:21 2024 EDT
+AppIdentifier                  /opt/cadence/IC618/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/vlsiuser/workspace/ECE539Final/full_adder/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Oct 26 18:11:37 2024 EDT
